@@ -1,0 +1,7 @@
+method,estimated_effect,abs_bias_vs_true
+"True Experimental
+(A/B Test)",1794.342404270271,0.0
+"Naive Comparison
+(CPS, unadjusted)",-8497.516142636992,10291.858546907264
+"Propensity Score
+Matching",1668.8320265945958,125.51037767567504

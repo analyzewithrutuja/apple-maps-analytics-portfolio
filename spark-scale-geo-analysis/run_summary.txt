@@ -1,0 +1,4 @@
+total_raw_points=24876978
+distinct_users=182
+spatial_grid_cells=62013
+processing_time_seconds=711.7
